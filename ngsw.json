@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1717147586049,
+  "timestamp": 1717148719080,
   "index": "/letsgoapp/index.html",
   "assetGroups": [
     {
@@ -17,6 +17,7 @@
         "/letsgoapp/favicon.ico",
         "/letsgoapp/index.html",
         "/letsgoapp/main.3259ea6eefc769e8.js",
+        "/letsgoapp/manifest.webmanifest",
         "/letsgoapp/polyfills.0aa8a46fcbe21318.js",
         "/letsgoapp/runtime.211caf3d39a96bfd.js",
         "/letsgoapp/styles.1725f1f9ba3e9d81.css"
@@ -93,6 +94,7 @@
     "/letsgoapp/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/letsgoapp/index.html": "c6c2e64fc6b2b0f182ead08aae0271ced0ff19b7",
     "/letsgoapp/main.3259ea6eefc769e8.js": "516e1c9af1d8fbf33bd4cc185f8556af0d1c51e9",
+    "/letsgoapp/manifest.webmanifest": "6cd42b76425c32782382feba2c357fbb0fdab50a",
     "/letsgoapp/polyfills.0aa8a46fcbe21318.js": "092ac8005b63d2b631ec4e570aca7fb8872cae26",
     "/letsgoapp/runtime.211caf3d39a96bfd.js": "d7580e80c940f86da0f3fa7d8437ce64476c856d",
     "/letsgoapp/styles.1725f1f9ba3e9d81.css": "74564e57b5328b3078cb3d00b5634e016ad8f058"
